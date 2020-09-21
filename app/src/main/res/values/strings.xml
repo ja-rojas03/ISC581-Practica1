@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">AppClase</string>
+    <string name="et_name">Digite un nombre...</string>
+    <string name="et_last_name">Digite un apellido...</string>
+    <string name="spinner_1">Masculino</string>
+    <string name="spinner_2">Femenina</string>
+    <string name="btn_send">Enviar</string>
+    <string name="btn_clear">Limpiar</string>
+    <string name="gender">Genero:</string>
+    <string name="programming">Le gusta programar?</string>
+    <string name="yes">Yes</string>
+    <string name="no">No</string>
+    <string name="nacimiento">Nacimiento:</string>
+
+    <string-array name="genders">
+        <item>Masculino</item>
+        <item>Femenino</item>
+    </string-array>
+</resources>
